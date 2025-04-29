@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  TextEditorCore.cpp
+     Creating library D:\txtedit\TextEditorSolution\x64\Release\TextEditorCore.lib and object D:\txtedit\TextEditorSolution\x64\Release\TextEditorCore.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 388 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TextEditorCore.vcxproj -> D:\txtedit\TextEditorSolution\x64\Release\TextEditorCore.dll
